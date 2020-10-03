@@ -42,8 +42,8 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-    public boolean onOptionsItemSelected(MenuItem item){
-        switch (item.getItemId()){
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
             case R.id.about_activity:
                 Intent aboutIntent = new Intent(MainActivity.this, AboutActivity.class);
 

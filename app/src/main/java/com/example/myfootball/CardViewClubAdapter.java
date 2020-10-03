@@ -45,7 +45,6 @@ class CardViewClubAdapter extends RecyclerView.Adapter<CardViewClubAdapter.CardV
         });
     }
 
-
     @Override
     public int getItemCount() {
         return listClub.size();

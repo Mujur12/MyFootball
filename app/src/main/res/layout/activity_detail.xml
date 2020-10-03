@@ -21,9 +21,9 @@
             android:id="@+id/txt_detail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
             android:padding="16dp"
-            android:textSize="20sp"
-            android:fontFamily="sans-serif" />
+            android:textSize="20sp" />
 
     </LinearLayout>
 </ScrollView>
