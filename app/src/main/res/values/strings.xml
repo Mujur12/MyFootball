@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FootBall</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="club_name">Nama Club</string>
+    <string name="detail">Detail</string>
+    <string name="about_name">Mujurius Gea</string>
+</resources>
